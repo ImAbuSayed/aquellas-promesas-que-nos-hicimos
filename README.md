@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquellas-promesas-que-nos-hicimos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Aquellas promesas que nos hicimos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-promesas-que-nos-hicimos/) |
+| **Get License** | [Commercial Licensing for Aquellas promesas que nos hicimos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-promesas-que-nos-hicimos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Aquellas promesas que nos hicimos
+> Cruzando miradas el día que nos vimos
+> La calle encendida y los dos nos perdimos
+> Bebiendo en exceso, a la mente subimos
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
