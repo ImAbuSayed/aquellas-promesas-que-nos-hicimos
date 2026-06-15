@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquellas promesas que nos hicimos
+
+This log tracks the cryptographic history and versioning for the song **Aquellas promesas que nos hicimos** (aquellas-promesas-que-nos-hicimos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:20:01.060339 | `v1` | `5323206377ea514c1cdde956896a573b71bb7de4a789f77c1ba021017b4aabfd` | `65fce9c30f58ae6a1925b5df2c6eac2f8c28dfb252dbb4b05cf78bbd2dcdb4ce` | `2026-06-15_aquellas-promesas-que-nos-hicimos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
